@@ -2,7 +2,7 @@ package com.example.bumpbridge
 
 object Config {
     // TODO: fill in with your own values from https://developer.spotify.com/dashboard
-    const val SPOTIFY_CLIENT_ID = "YOUR_SPOTIFY_CLIENT_ID"
+    const val SPOTIFY_CLIENT_ID = "c3ac4a2046cc47f69185118e64c3b372"
     const val REDIRECT_URI = "bumpbridge://callback"
 
     // Verify this against the real Metrolist package name on your device:
